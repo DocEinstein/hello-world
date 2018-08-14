@@ -1,2 +1,2 @@
 # hello-world
-new to github world and wanna have fun and experienced
+new to github world and wanna have fun and experiences
